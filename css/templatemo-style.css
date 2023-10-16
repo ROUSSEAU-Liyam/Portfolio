@@ -628,6 +628,7 @@ a#logo {
 .portfolio-item:hover .thumb-inner p {
   position: relative;
   opacity: 1;
+  font-size: 12px;
   visibility: visible;
   color: #fff;
 }
